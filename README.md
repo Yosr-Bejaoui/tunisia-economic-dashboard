@@ -20,4 +20,4 @@ A data analysis project using World Bank data (2010–2023) on Tunisia's economy
 - matplotlib
 - scikit-learn
 
-## 📁 Plots saved in: `output/plots/`
+## Plots saved in: `output/plots/`
